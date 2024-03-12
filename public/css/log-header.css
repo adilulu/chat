@@ -1,0 +1,39 @@
+header {
+    background-color: #f5f8fa;
+    height: 100vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+#tnts, #study-hub{
+    text-align: center;
+}
+
+#tnts{
+    font-size: 100px;
+    margin: 0;
+    color: #212427;
+}
+
+#study-hub{
+    margin: 0;
+    font-size: 40px;
+    color: #212427;
+}
+
+.wide-logo {
+    display: flex;
+    width: 220px;
+    margin-left: 20px;
+    height: 35px;
+}
+
+label{
+    color: #212427;
+}
+
+#connect {
+    cursor: pointer;
+}
